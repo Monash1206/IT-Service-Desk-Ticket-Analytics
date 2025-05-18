@@ -96,8 +96,6 @@ The project uses 5 tables:
 
 ## 💻 SQL Queries
 
-All queries used for analysis are available in the it_service_desk_analysis_queries.sql file.
-
 Highlights:
 - CTEs for aggregating satisfaction by agent
 - Window functions for churn trend
@@ -116,8 +114,6 @@ Interactive Power BI dashboard visualizing:
 - Agent-wise satisfaction
 - Region-wise performance
 
-➡️ [Customer_360_PowerBI.pbix](dashboards/Customer_360_PowerBI.pbix)
-
 ---
 
 ### 📊 Excel Dashboard
@@ -127,9 +123,6 @@ Includes:
 - Heatmaps
 - Bar & Line charts
 - KPI cards
-
-➡️ [Customer_360_Excel_Dashboard.xlsx](dashboards/Customer_360_Excel_Dashboard.xlsx)
-
 ---
 
 ## 📌 Insights & Recommendations
