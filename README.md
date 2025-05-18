@@ -96,7 +96,7 @@ The project uses 5 tables:
 
 ## 💻 SQL Queries
 
-All queries used for analysis are available in the [`sql/customer_360_queries.sql`](sql/customer_360_queries.sql) file.
+All queries used for analysis are available in the it_service_desk_analysis_queries.sql file.
 
 Highlights:
 - CTEs for aggregating satisfaction by agent
