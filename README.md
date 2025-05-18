@@ -1,23 +1,6 @@
 IT-Service-Desk-Ticket-Analytics
 
-# 🧠 Customer 360 Analysis – Business Analyst Portfolio Project
-
 This project demonstrates how customer service analytics and interaction data can be leveraged to understand customer churn, satisfaction, and service quality. It simulates a Business Analyst’s workflow using Excel, SQL, and Power BI to extract insights, answer business questions, and visualize KPIs.
-
----
-
-## 📂 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset Description](#dataset-description)
-- [Tools Used](#tools-used)
-- [Objectives](#objectives)
-- [Key KPIs & Metrics](#key-kpis--metrics)
-- [SQL Queries](#sql-queries)
-- [Dashboards](#dashboards)
-- [Insights & Recommendations](#insights--recommendations)
-- [Folder Structure](#folder-structure)
-
 ---
 
 ## 📊 Project Overview
